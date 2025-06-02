@@ -1,4 +1,4 @@
-# Geospatial-Analysis-NATO-Expansion
+# Python-Geospatial-Analysis-NATO-Expansion
 
 The projetc is credited to Udemy Course:Geospatial Analysis for Military Geopolitics in Python (https://www.udemy.com/course/military-geopolitics-with-data-science/), which I enrolled to develop and practise geospatial data analytical skills
 
